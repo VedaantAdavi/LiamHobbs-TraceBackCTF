@@ -11,4 +11,4 @@ games = [12, 18, 22, 15, 20]
 print("Average:", average_points(games))
 print("Highest:", highest_score(games))
 
-# practicing daily at flag{dever_ball_arena}
+# practicing daily at the Denver Hoops
